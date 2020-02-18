@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b087fc0-c96d-4e30-86a6-3b5c6397a54a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myActivateViewOnRun" value="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="75" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path>$USER_HOME$/AppData/Roaming/npm/bower.cmd</exe-path>
+    <config-path />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Xi6Fpt2M6iitAbcsoIKXxu8aWc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../home-automation-api" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:\Program Files\nodejs\node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\home-automation\src\_components\buttons\SignInButton" />
+      <recent name="D:\Projects\home-automation\src\_services\user" />
+      <recent name="D:\Projects\home-automation\src\_components\toaster" />
+      <recent name="D:\Projects\home-automation\src\_components\navbar" />
+      <recent name="D:\Projects\home-automation\src\_components\footer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.coverage">
+    <configuration name="PublicPage.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/modules/Public/PublicPage.test.js" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SignInForm.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/_components/forms/SignInForm/SignInForm.test.js" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coverage" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="coverage" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+        <item itemvalue="npm.coverage" />
+        <item itemvalue="Jest.PublicPage.test.js" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="Jest.SignInForm.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b087fc0-c96d-4e30-86a6-3b5c6397a54a" name="Default Changelist" comment="" />
+      <created>1581338277351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581338277351</updated>
+      <workItem from="1581338278770" duration="19776000" />
+      <workItem from="1581397327248" duration="44697000" />
+      <workItem from="1581516468108" duration="104000" />
+      <workItem from="1581516648832" duration="93629000" />
+      <workItem from="1581920735866" duration="18208000" />
+      <workItem from="1581959270709" duration="1657000" />
+      <workItem from="1581960967956" duration="1816000" />
+      <workItem from="1582008121820" duration="989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="2376" height="1216" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581521986958">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1581521986958" />
+    <state x="960" y="431" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581516485207">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="960" y="431" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1581516485207" />
+    <state x="1060" y="458" key="FileChooserDialogImpl" timestamp="1581516471118">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1581516471118" />
+    <state width="2539" height="308" key="GridCell.Tab.0.bottom" timestamp="1582009140487">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="308" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1582009140487" />
+    <state width="2539" height="308" key="GridCell.Tab.0.center" timestamp="1582009140487">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="308" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1582009140487" />
+    <state width="2539" height="308" key="GridCell.Tab.0.left" timestamp="1582009140486">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="308" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1582009140486" />
+    <state width="2539" height="308" key="GridCell.Tab.0.right" timestamp="1582009140487">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="308" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1582009140487" />
+    <state width="2539" height="482" key="GridCell.Tab.1.bottom" timestamp="1581684450650">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="482" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1581684450650" />
+    <state width="2539" height="482" key="GridCell.Tab.1.center" timestamp="1581684450650">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="482" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1581684450650" />
+    <state width="2539" height="482" key="GridCell.Tab.1.left" timestamp="1581684450650">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="482" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1581684450650" />
+    <state width="2539" height="482" key="GridCell.Tab.1.right" timestamp="1581684450650">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="482" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1581684450650" />
+    <state width="2539" height="482" key="GridCell.Tab.2.bottom" timestamp="1581684450651">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="482" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1581684450651" />
+    <state width="2539" height="482" key="GridCell.Tab.2.center" timestamp="1581684450651">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="482" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1581684450651" />
+    <state width="2539" height="482" key="GridCell.Tab.2.left" timestamp="1581684450651">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="482" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1581684450651" />
+    <state width="2539" height="482" key="GridCell.Tab.2.right" timestamp="1581684450651">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="482" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1581684450651" />
+    <state width="2539" height="482" key="GridCell.Tab.3.bottom" timestamp="1581684450651">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="482" key="GridCell.Tab.3.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1581684450651" />
+    <state width="2539" height="482" key="GridCell.Tab.3.center" timestamp="1581684450651">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="482" key="GridCell.Tab.3.center/0.0.2560.1400@0.0.2560.1400" timestamp="1581684450651" />
+    <state width="2539" height="482" key="GridCell.Tab.3.left" timestamp="1581684450651">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="482" key="GridCell.Tab.3.left/0.0.2560.1400@0.0.2560.1400" timestamp="1581684450651" />
+    <state width="2539" height="482" key="GridCell.Tab.3.right" timestamp="1581684450651">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="482" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1581684450651" />
+    <state x="860" y="438" key="IDE.errors.dialog" timestamp="1581516501508">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="860" y="438" key="IDE.errors.dialog/0.0.2560.1400@0.0.2560.1400" timestamp="1581516501508" />
+    <state x="783" y="345" key="SettingsEditor" timestamp="1581959359779">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="783" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1581959359779" />
+    <state x="66" y="317" width="2376" height="1224" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581684450838">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="66" y="317" width="2376" height="1224" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1581684450838" />
+    <state x="932" y="318" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581959524889">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="932" y="318" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1581959524889" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1581682540743">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1581682540743" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1581516808068">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1581516808068" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/home_automation$PublicPage_test_js.info" NAME="PublicPage.test.js Coverage Results" MODIFIED="1581962343619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/home_automation$SignInForm_test_js.info" NAME="SignInForm.test.js Coverage Results" MODIFIED="1581658155554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/home_automation$SignInPage_test_js.info" NAME="SignInPage.test.js Coverage Results" MODIFIED="1581671890752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
