@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vicky-gonsalves/react-redux-material-ui-formik-jest-boilerplate.svg?branch=master)](https://travis-ci.org/vicky-gonsalves/react-redux-material-ui-formik-jest-boilerplate)
+
 ## A boilerplate built with react, redux, material-ui, formik, yup, jest, jest-enzyme. Unit tests included.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

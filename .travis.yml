@@ -7,11 +7,7 @@ cache:
 branches:
   only:
     - master
-env:
-  global:
-    - PORT=3000
 script:
-  - yarn lint
   - yarn test
   - yarn build
 after_success: yarn coverage
