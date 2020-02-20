@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/vicky-gonsalves/react-redux-material-ui-formik-jest-boilerplate.svg?branch=master)](https://travis-ci.org/vicky-gonsalves/react-redux-material-ui-formik-jest-boilerplate)
+[![Coverage Status](https://coveralls.io/repos/github/vicky-gonsalves/react-redux-material-ui-formik-jest-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/vicky-gonsalves/react-redux-material-ui-formik-jest-boilerplate?branch=master)
 
 ## A boilerplate built with react, redux, material-ui, formik, yup, jest, jest-enzyme. Unit tests included.
 

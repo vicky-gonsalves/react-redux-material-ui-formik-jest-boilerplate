@@ -10,4 +10,4 @@ branches:
 script:
   - yarn test
   - yarn build
-after_success: yarn coverage
+after_success: yarn coveralls
